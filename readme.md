@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="img/site.png">
+    <img src="img/Site.png">
 </h1>
 
 ### Indice
