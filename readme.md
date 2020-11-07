@@ -1,5 +1,5 @@
 <h1 align="center"  class="bg-warning">
-    <img src="img/logo.png"/> 
+    $ FINANS 
 </h1>
 
 <h1>
