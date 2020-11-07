@@ -1,9 +1,9 @@
 <h1 align="center">
-<img src="../img/logo.png"/> 
+<img src="img/logo.png"/> 
 </h1>
 
 <h1>
-    <img src="../img/site.png">
+    <img src="img/site.png">
 </h1>
 
 ### Indice
