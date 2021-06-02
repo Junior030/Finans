@@ -34,10 +34,8 @@ O projeto foi desenvolvido utilizando a seguintes tecnologias
     $ git clone https://github.com/Junior030/Finans
 
     $ cd Finans
-
-    $ yarn install
-
-    $ yarn start
+    
+    $ xdg-open index.html
 ```
 
 ---
